@@ -29,3 +29,5 @@ else:
     print("No se pudo encontrar la dirección IP.")
 
 #print(equipos)
+
+#Hace escaneo ip , puertos y hace ping a todas las ip que estan en el rango de red
